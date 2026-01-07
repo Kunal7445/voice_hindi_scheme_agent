@@ -1,4 +1,4 @@
-# Hindi Scheme Voice Assistant (Suggested Name)
+# Hindi Scheme Voice Assistant
 
 Hindi Scheme Voice Assistant is a Python-based voice agent designed to help users interact with government schemes in Hindi. It uses speech recognition, planning, and execution modules to provide relevant information about eligibility and available schemes.
 
@@ -77,3 +77,4 @@ Computer Science Graduate
 
 📫 Email: kunal.singh7445@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kunal-singh-229130261/
+
